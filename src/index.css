@@ -1,0 +1,16 @@
+body {
+    background-color: lightgray;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: sans-serif;
+    
+}
+p.clicked {
+    cursor: pointer;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+}
